@@ -1,0 +1,5 @@
+
+[submodule "external/vtk"]
+	path = external/vtk
+	url = https://gitlab.kitware.com/vtk/vtk.git
+	branch = 285daeedd58eb890cb90d6e907d822eea3d2d092
