@@ -1,3 +1,1 @@
-[submodule "external/vtk"]
-	path = external/vtk
-	url = https://gitlab.kitware.com/vtk/vtk.git
+
